@@ -10801,21 +10801,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"lottery-react@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "lottery-react@workspace:."
-  dependencies:
-    "@testing-library/jest-dom": ^5.11.10
-    "@testing-library/react": ^11.2.6
-    "@testing-library/user-event": ^12.8.3
-    react: ^17.0.2
-    react-dom: ^17.0.2
-    react-scripts: 4.0.3
-    web-vitals: ^1.1.1
-    web3: ^1.8.2
-  languageName: unknown
-  linkType: soft
-
 "lower-case@npm:^2.0.2":
   version: 2.0.2
   resolution: "lower-case@npm:2.0.2"
@@ -13807,6 +13792,21 @@ __metadata:
   checksum: e72d0ba81b5922759e4aff17e0252bd29988f9642ed817f56b25a3e217e13eea8a7f2322af99a06edb779da12d5d636e9fda473d620df9a3da0df2a74141d53e
   languageName: node
   linkType: hard
+
+"react-lottery@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "react-lottery@workspace:."
+  dependencies:
+    "@testing-library/jest-dom": ^5.11.10
+    "@testing-library/react": ^11.2.6
+    "@testing-library/user-event": ^12.8.3
+    react: ^17.0.2
+    react-dom: ^17.0.2
+    react-scripts: 4.0.3
+    web-vitals: ^1.1.1
+    web3: ^1.8.2
+  languageName: unknown
+  linkType: soft
 
 "react-refresh@npm:^0.8.3":
   version: 0.8.3

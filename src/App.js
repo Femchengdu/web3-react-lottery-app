@@ -34,7 +34,6 @@ class App extends React.Component {
   };
 
   render() {
-    //console.log("state :", this.state);
     return (
       <div className="App">
         <h2>Lottery Contract</h2>
